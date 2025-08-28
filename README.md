@@ -32,12 +32,12 @@
 - Especialização em manutenção de equipamentos MAXWELL
 - Experiência internacional nos Estados Unidos
 -->
-
+<!--
 ## 📈 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iurygsg&theme=dark" alt="GitHub Streak" />
 </p>
-
+-->
 ## 🎓 Formação Acadêmica
 - **Bacharelado em Engenharia de Produção** - PUC Minas Gerais (2021-2025)
 - **Intercâmbio em Engenharia de Controle e Automação** - Minnesota State University, EUA (2014-2016)
